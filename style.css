@@ -134,6 +134,7 @@ img {
   main {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 21.69rem;
     gap: 2.3rem 1.84rem;
     padding-block: 12.61rem;
     padding-inline: 12.69rem;
